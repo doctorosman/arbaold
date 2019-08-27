@@ -1,0 +1,33 @@
+
+		.kart{
+			height: 15%;
+			width: 15%;
+			background-color: white;
+			border-radius: 20px;
+			border: 2px solid white;
+		}
+		.kart img{
+			border-radius: 20px;
+			height: 100%;
+			width: 100%;,
+		}
+		#k2{
+			position: relative;
+			bottom: 288px;
+			left: 50px;
+		}
+		#k3{
+			position: relative;
+			bottom: 575px;
+			left: 100px;
+		}
+		#k4{
+			position: relative;
+			bottom: 863px;
+			left: 150px;
+		}
+		#k5{
+			position: relative;
+			bottom: 1150px;
+			left: 200px;
+		}
